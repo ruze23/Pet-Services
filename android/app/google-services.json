@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928380693240",
+    "project_id": "petservices-93402",
+    "storage_bucket": "petservices-93402.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928380693240:android:5ac4ec2ced19f856eea90d",
+        "android_client_info": {
+          "package_name": "com.example.pet_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSx-36DyM35gg8dz0qWOHcYDYhY0UXjKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
